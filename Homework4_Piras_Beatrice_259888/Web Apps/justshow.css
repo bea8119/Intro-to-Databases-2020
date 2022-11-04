@@ -1,0 +1,57 @@
+.myselect {
+	  
+  position: relative;
+  font-family: Arial;
+   text-align:center;
+  
+  
+}
+
+.myselect select {
+ 
+ width: 150px;
+ height: 30px;
+ background-color:#ccd9ff;
+ border-width:2px;
+}
+.myselect table{
+ background-color:#ccd9ff; 
+	
+}
+
+.myselect td{
+	border:1px solid black;
+}
+
+
+
+
+
+.myinput{
+	font-family: Arial;
+	
+	border-style:solid;
+	width: 400px; 
+	margin: 0 auto;
+	
+	text-align:center;
+	background-color:#ebf0fa;
+	
+	
+}
+
+.myinput input{
+ background-color:#ccd9ff; 
+ width: 100px;
+ height: 30px;
+ border-width:2px;
+ text-decoration: none;
+
+}
+
+
+
+
+
+
+
